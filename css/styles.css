@@ -4,13 +4,31 @@
 
 #cis-special-parent a {
     color: #efef15;
-    
+
 }
 
 #content {
-    color:goldenrod
+    color: goldenrod
 }
 
 h1 {
-    font-weight:bolder;
+    font-weight: bolder;
+}
+
+p {
+    font-family: fantasy
+}
+
+li {
+    font-family: fantasy
+}
+
+h1 {
+
+    font-family: fantasy
+}
+
+a {
+
+    font-family: fantasy
 }
